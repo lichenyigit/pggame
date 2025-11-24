@@ -50,4 +50,3 @@
 
 QQ群：
 <img src="http://www.lichenyi.cn/qrcode_qq_pgh5.jpg" width="200px"><br>
-![alt PG H5 游戏思域引流](http://www.lichenyi.cn/qrcode_qq_pgh5.jpg)
