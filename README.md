@@ -49,4 +49,5 @@
 ### ① 独立域名包装
 
 QQ群：
-![alt PG H5 游戏思域引流](http://www.lichenyi.cn/qrcode_qq_pgh5.jpg){:width="300px"}
+<img src="[./qr.jpg](http://www.lichenyi.cn/qrcode_qq_pgh5.jpg)" width="200"><br>
+![alt PG H5 游戏思域引流](http://www.lichenyi.cn/qrcode_qq_pgh5.jpg)
