@@ -48,5 +48,5 @@
 
 ### ① 独立域名包装
 
-QQ群：
+QQ群：982608096
 <img src="http://www.lichenyi.cn/qrcode_qq_pgh5.jpg" width="200px"><br>
